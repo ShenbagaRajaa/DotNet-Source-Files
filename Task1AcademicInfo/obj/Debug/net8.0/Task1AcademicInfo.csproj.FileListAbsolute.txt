@@ -1,0 +1,11 @@
+D:\.NetCoreee\project1\Task1AcademicInfo\bin\Debug\net8.0\Task1AcademicInfo.deps.json
+D:\.NetCoreee\project1\Task1AcademicInfo\bin\Debug\net8.0\Task1AcademicInfo.dll
+D:\.NetCoreee\project1\Task1AcademicInfo\bin\Debug\net8.0\Task1AcademicInfo.pdb
+D:\.NetCoreee\project1\Task1AcademicInfo\obj\Debug\net8.0\Task1AcademicInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreee\project1\Task1AcademicInfo\obj\Debug\net8.0\Task1AcademicInfo.AssemblyInfoInputs.cache
+D:\.NetCoreee\project1\Task1AcademicInfo\obj\Debug\net8.0\Task1AcademicInfo.AssemblyInfo.cs
+D:\.NetCoreee\project1\Task1AcademicInfo\obj\Debug\net8.0\Task1AcademicInfo.csproj.CoreCompileInputs.cache
+D:\.NetCoreee\project1\Task1AcademicInfo\obj\Debug\net8.0\Task1AcademicInfo.dll
+D:\.NetCoreee\project1\Task1AcademicInfo\obj\Debug\net8.0\refint\Task1AcademicInfo.dll
+D:\.NetCoreee\project1\Task1AcademicInfo\obj\Debug\net8.0\Task1AcademicInfo.pdb
+D:\.NetCoreee\project1\Task1AcademicInfo\obj\Debug\net8.0\ref\Task1AcademicInfo.dll

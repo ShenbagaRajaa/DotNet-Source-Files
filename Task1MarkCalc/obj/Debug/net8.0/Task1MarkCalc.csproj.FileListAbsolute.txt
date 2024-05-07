@@ -1,0 +1,15 @@
+D:\.NetCoreee\project1\Task1MarkCalc\bin\Debug\net8.0\Task1MarkCalc.deps.json
+D:\.NetCoreee\project1\Task1MarkCalc\bin\Debug\net8.0\Task1MarkCalc.dll
+D:\.NetCoreee\project1\Task1MarkCalc\bin\Debug\net8.0\Task1MarkCalc.pdb
+D:\.NetCoreee\project1\Task1MarkCalc\bin\Debug\net8.0\Task1Interface.dll
+D:\.NetCoreee\project1\Task1MarkCalc\bin\Debug\net8.0\Task1Interface.pdb
+D:\.NetCoreee\project1\Task1MarkCalc\obj\Debug\net8.0\Task1MarkCalc.csproj.AssemblyReference.cache
+D:\.NetCoreee\project1\Task1MarkCalc\obj\Debug\net8.0\Task1MarkCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreee\project1\Task1MarkCalc\obj\Debug\net8.0\Task1MarkCalc.AssemblyInfoInputs.cache
+D:\.NetCoreee\project1\Task1MarkCalc\obj\Debug\net8.0\Task1MarkCalc.AssemblyInfo.cs
+D:\.NetCoreee\project1\Task1MarkCalc\obj\Debug\net8.0\Task1MarkCalc.csproj.CoreCompileInputs.cache
+D:\.NetCoreee\project1\Task1MarkCalc\obj\Debug\net8.0\Task1Mar.FCE959CF.Up2Date
+D:\.NetCoreee\project1\Task1MarkCalc\obj\Debug\net8.0\Task1MarkCalc.dll
+D:\.NetCoreee\project1\Task1MarkCalc\obj\Debug\net8.0\refint\Task1MarkCalc.dll
+D:\.NetCoreee\project1\Task1MarkCalc\obj\Debug\net8.0\Task1MarkCalc.pdb
+D:\.NetCoreee\project1\Task1MarkCalc\obj\Debug\net8.0\ref\Task1MarkCalc.dll

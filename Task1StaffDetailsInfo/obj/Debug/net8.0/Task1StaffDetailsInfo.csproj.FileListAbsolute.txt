@@ -1,0 +1,15 @@
+D:\.NetCoreee\project1\Task1StaffDetailsInfo\bin\Debug\net8.0\Task1StaffDetailsInfo.deps.json
+D:\.NetCoreee\project1\Task1StaffDetailsInfo\bin\Debug\net8.0\Task1StaffDetailsInfo.dll
+D:\.NetCoreee\project1\Task1StaffDetailsInfo\bin\Debug\net8.0\Task1StaffDetailsInfo.pdb
+D:\.NetCoreee\project1\Task1StaffDetailsInfo\bin\Debug\net8.0\Task1Interface.dll
+D:\.NetCoreee\project1\Task1StaffDetailsInfo\bin\Debug\net8.0\Task1Interface.pdb
+D:\.NetCoreee\project1\Task1StaffDetailsInfo\obj\Debug\net8.0\Task1StaffDetailsInfo.csproj.AssemblyReference.cache
+D:\.NetCoreee\project1\Task1StaffDetailsInfo\obj\Debug\net8.0\Task1StaffDetailsInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreee\project1\Task1StaffDetailsInfo\obj\Debug\net8.0\Task1StaffDetailsInfo.AssemblyInfoInputs.cache
+D:\.NetCoreee\project1\Task1StaffDetailsInfo\obj\Debug\net8.0\Task1StaffDetailsInfo.AssemblyInfo.cs
+D:\.NetCoreee\project1\Task1StaffDetailsInfo\obj\Debug\net8.0\Task1StaffDetailsInfo.csproj.CoreCompileInputs.cache
+D:\.NetCoreee\project1\Task1StaffDetailsInfo\obj\Debug\net8.0\Task1Sta.8C56EECE.Up2Date
+D:\.NetCoreee\project1\Task1StaffDetailsInfo\obj\Debug\net8.0\Task1StaffDetailsInfo.dll
+D:\.NetCoreee\project1\Task1StaffDetailsInfo\obj\Debug\net8.0\refint\Task1StaffDetailsInfo.dll
+D:\.NetCoreee\project1\Task1StaffDetailsInfo\obj\Debug\net8.0\Task1StaffDetailsInfo.pdb
+D:\.NetCoreee\project1\Task1StaffDetailsInfo\obj\Debug\net8.0\ref\Task1StaffDetailsInfo.dll

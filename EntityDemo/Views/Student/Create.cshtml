@@ -1,0 +1,19 @@
+@model StudentShenbaORM;
+
+
+<div class="row">
+    <div class="col-md-9">
+        <form asp-action="Create" >
+            <label asp-for="StudentName">Student Name</label>
+            <input asp-for="StudentName">
+            @* <span asp-validation-for="StudentName"> </span> *@
+            <label asp-for="DepartmentId">Department Id</label>
+            <input asp-for="DepartmentId">
+            <label asp-for="Gender">Gender</label>
+            <input asp-for="Gender">
+            <label asp-for="EmailId">Email id</label>
+            <input asp-for="EmailId">
+            <input type="submit">
+        </form>
+    </div>
+</div>

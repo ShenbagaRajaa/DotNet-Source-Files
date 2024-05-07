@@ -1,0 +1,14 @@
+D:\.NetCoreee\project1\SpecialTask\bin\Debug\net8.0\SpecialTask.exe
+D:\.NetCoreee\project1\SpecialTask\bin\Debug\net8.0\SpecialTask.deps.json
+D:\.NetCoreee\project1\SpecialTask\bin\Debug\net8.0\SpecialTask.runtimeconfig.json
+D:\.NetCoreee\project1\SpecialTask\bin\Debug\net8.0\SpecialTask.dll
+D:\.NetCoreee\project1\SpecialTask\bin\Debug\net8.0\SpecialTask.pdb
+D:\.NetCoreee\project1\SpecialTask\obj\Debug\net8.0\SpecialTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreee\project1\SpecialTask\obj\Debug\net8.0\SpecialTask.AssemblyInfoInputs.cache
+D:\.NetCoreee\project1\SpecialTask\obj\Debug\net8.0\SpecialTask.AssemblyInfo.cs
+D:\.NetCoreee\project1\SpecialTask\obj\Debug\net8.0\SpecialTask.csproj.CoreCompileInputs.cache
+D:\.NetCoreee\project1\SpecialTask\obj\Debug\net8.0\SpecialTask.dll
+D:\.NetCoreee\project1\SpecialTask\obj\Debug\net8.0\refint\SpecialTask.dll
+D:\.NetCoreee\project1\SpecialTask\obj\Debug\net8.0\SpecialTask.pdb
+D:\.NetCoreee\project1\SpecialTask\obj\Debug\net8.0\SpecialTask.genruntimeconfig.cache
+D:\.NetCoreee\project1\SpecialTask\obj\Debug\net8.0\ref\SpecialTask.dll

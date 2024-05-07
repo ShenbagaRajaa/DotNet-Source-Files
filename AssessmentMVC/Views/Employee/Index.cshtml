@@ -1,0 +1,21 @@
+@model IEnumerable<EmployeeAsShenba>;
+
+<h2>Student Details</h2>
+<table class="table">
+    <tr>
+            <td>Employee Id</td>
+            <td>Employee Name </td>
+            <td>Designation</td>
+            <td>Salary</td>
+            <td>Date Of Joining</td>
+        </tr>
+    @foreach(EmployeeAsShenba e in Model){
+        <tr>
+            <td>@e.EmployeeId</td>
+            <td>@e.EmployeeName </td>
+            <td>@e.EmployeeDesignation</td>
+            <td>@e.EmployeeSalary</td>
+            <td>@e.EmployeeDoJ</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,14 @@
+D:\.NetCoreee\project1\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.exe
+D:\.NetCoreee\project1\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.deps.json
+D:\.NetCoreee\project1\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.runtimeconfig.json
+D:\.NetCoreee\project1\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.dll
+D:\.NetCoreee\project1\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.pdb
+D:\.NetCoreee\project1\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreee\project1\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfoInputs.cache
+D:\.NetCoreee\project1\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfo.cs
+D:\.NetCoreee\project1\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\.NetCoreee\project1\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.dll
+D:\.NetCoreee\project1\ExceptionHandling\obj\Debug\net8.0\refint\ExceptionHandling.dll
+D:\.NetCoreee\project1\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.pdb
+D:\.NetCoreee\project1\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.genruntimeconfig.cache
+D:\.NetCoreee\project1\ExceptionHandling\obj\Debug\net8.0\ref\ExceptionHandling.dll

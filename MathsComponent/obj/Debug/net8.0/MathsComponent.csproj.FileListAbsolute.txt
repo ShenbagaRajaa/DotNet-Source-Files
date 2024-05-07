@@ -1,0 +1,11 @@
+D:\.NetCoreee\project1\MathsComponent\bin\Debug\net8.0\MathsComponent.deps.json
+D:\.NetCoreee\project1\MathsComponent\bin\Debug\net8.0\MathsComponent.dll
+D:\.NetCoreee\project1\MathsComponent\bin\Debug\net8.0\MathsComponent.pdb
+D:\.NetCoreee\project1\MathsComponent\obj\Debug\net8.0\MathsComponent.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreee\project1\MathsComponent\obj\Debug\net8.0\MathsComponent.AssemblyInfoInputs.cache
+D:\.NetCoreee\project1\MathsComponent\obj\Debug\net8.0\MathsComponent.AssemblyInfo.cs
+D:\.NetCoreee\project1\MathsComponent\obj\Debug\net8.0\MathsComponent.csproj.CoreCompileInputs.cache
+D:\.NetCoreee\project1\MathsComponent\obj\Debug\net8.0\MathsComponent.dll
+D:\.NetCoreee\project1\MathsComponent\obj\Debug\net8.0\refint\MathsComponent.dll
+D:\.NetCoreee\project1\MathsComponent\obj\Debug\net8.0\MathsComponent.pdb
+D:\.NetCoreee\project1\MathsComponent\obj\Debug\net8.0\ref\MathsComponent.dll

@@ -1,0 +1,15 @@
+D:\.NetCoreee\project1\Task1StudentDetialsInfo\bin\Debug\net8.0\Task1StudentDetialsInfo.deps.json
+D:\.NetCoreee\project1\Task1StudentDetialsInfo\bin\Debug\net8.0\Task1StudentDetialsInfo.dll
+D:\.NetCoreee\project1\Task1StudentDetialsInfo\bin\Debug\net8.0\Task1StudentDetialsInfo.pdb
+D:\.NetCoreee\project1\Task1StudentDetialsInfo\obj\Debug\net8.0\Task1StudentDetialsInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreee\project1\Task1StudentDetialsInfo\obj\Debug\net8.0\Task1StudentDetialsInfo.AssemblyInfoInputs.cache
+D:\.NetCoreee\project1\Task1StudentDetialsInfo\obj\Debug\net8.0\Task1StudentDetialsInfo.AssemblyInfo.cs
+D:\.NetCoreee\project1\Task1StudentDetialsInfo\obj\Debug\net8.0\Task1StudentDetialsInfo.csproj.CoreCompileInputs.cache
+D:\.NetCoreee\project1\Task1StudentDetialsInfo\obj\Debug\net8.0\Task1StudentDetialsInfo.dll
+D:\.NetCoreee\project1\Task1StudentDetialsInfo\obj\Debug\net8.0\refint\Task1StudentDetialsInfo.dll
+D:\.NetCoreee\project1\Task1StudentDetialsInfo\obj\Debug\net8.0\Task1StudentDetialsInfo.pdb
+D:\.NetCoreee\project1\Task1StudentDetialsInfo\obj\Debug\net8.0\ref\Task1StudentDetialsInfo.dll
+D:\.NetCoreee\project1\Task1StudentDetialsInfo\bin\Debug\net8.0\Task1AcademicInfo.dll
+D:\.NetCoreee\project1\Task1StudentDetialsInfo\bin\Debug\net8.0\Task1AcademicInfo.pdb
+D:\.NetCoreee\project1\Task1StudentDetialsInfo\obj\Debug\net8.0\Task1StudentDetialsInfo.csproj.AssemblyReference.cache
+D:\.NetCoreee\project1\Task1StudentDetialsInfo\obj\Debug\net8.0\Task1Stu.0D424CD4.Up2Date

@@ -1,0 +1,14 @@
+D:\.NetCoreee\project1\CollectionTopic\bin\Debug\net8.0\CollectionTopic.exe
+D:\.NetCoreee\project1\CollectionTopic\bin\Debug\net8.0\CollectionTopic.deps.json
+D:\.NetCoreee\project1\CollectionTopic\bin\Debug\net8.0\CollectionTopic.runtimeconfig.json
+D:\.NetCoreee\project1\CollectionTopic\bin\Debug\net8.0\CollectionTopic.dll
+D:\.NetCoreee\project1\CollectionTopic\bin\Debug\net8.0\CollectionTopic.pdb
+D:\.NetCoreee\project1\CollectionTopic\obj\Debug\net8.0\CollectionTopic.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreee\project1\CollectionTopic\obj\Debug\net8.0\CollectionTopic.AssemblyInfoInputs.cache
+D:\.NetCoreee\project1\CollectionTopic\obj\Debug\net8.0\CollectionTopic.AssemblyInfo.cs
+D:\.NetCoreee\project1\CollectionTopic\obj\Debug\net8.0\CollectionTopic.csproj.CoreCompileInputs.cache
+D:\.NetCoreee\project1\CollectionTopic\obj\Debug\net8.0\CollectionTopic.dll
+D:\.NetCoreee\project1\CollectionTopic\obj\Debug\net8.0\refint\CollectionTopic.dll
+D:\.NetCoreee\project1\CollectionTopic\obj\Debug\net8.0\CollectionTopic.pdb
+D:\.NetCoreee\project1\CollectionTopic\obj\Debug\net8.0\CollectionTopic.genruntimeconfig.cache
+D:\.NetCoreee\project1\CollectionTopic\obj\Debug\net8.0\ref\CollectionTopic.dll

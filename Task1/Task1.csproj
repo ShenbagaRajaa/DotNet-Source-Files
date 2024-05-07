@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Task1MarkCalc\Task1MarkCalc.csproj" />
+    <ProjectReference Include="..\Task1Interface\Task1Interface.csproj" />
+    <ProjectReference Include="..\Task1StudentDetialsInfo\Task1StudentDetialsInfo.csproj" />
+    <ProjectReference Include="..\Task1AcademicInfo\Task1AcademicInfo.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.3.0" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

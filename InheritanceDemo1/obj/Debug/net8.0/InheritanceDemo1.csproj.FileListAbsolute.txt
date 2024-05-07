@@ -1,0 +1,14 @@
+D:\.NetCoreee\project1\inheritanceDemo1\bin\Debug\net8.0\InheritanceDemo1.exe
+D:\.NetCoreee\project1\inheritanceDemo1\bin\Debug\net8.0\InheritanceDemo1.deps.json
+D:\.NetCoreee\project1\inheritanceDemo1\bin\Debug\net8.0\InheritanceDemo1.runtimeconfig.json
+D:\.NetCoreee\project1\inheritanceDemo1\bin\Debug\net8.0\InheritanceDemo1.dll
+D:\.NetCoreee\project1\inheritanceDemo1\bin\Debug\net8.0\InheritanceDemo1.pdb
+D:\.NetCoreee\project1\inheritanceDemo1\obj\Debug\net8.0\InheritanceDemo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreee\project1\inheritanceDemo1\obj\Debug\net8.0\InheritanceDemo1.AssemblyInfoInputs.cache
+D:\.NetCoreee\project1\inheritanceDemo1\obj\Debug\net8.0\InheritanceDemo1.AssemblyInfo.cs
+D:\.NetCoreee\project1\inheritanceDemo1\obj\Debug\net8.0\InheritanceDemo1.csproj.CoreCompileInputs.cache
+D:\.NetCoreee\project1\inheritanceDemo1\obj\Debug\net8.0\InheritanceDemo1.dll
+D:\.NetCoreee\project1\inheritanceDemo1\obj\Debug\net8.0\refint\InheritanceDemo1.dll
+D:\.NetCoreee\project1\inheritanceDemo1\obj\Debug\net8.0\InheritanceDemo1.pdb
+D:\.NetCoreee\project1\inheritanceDemo1\obj\Debug\net8.0\InheritanceDemo1.genruntimeconfig.cache
+D:\.NetCoreee\project1\inheritanceDemo1\obj\Debug\net8.0\ref\InheritanceDemo1.dll

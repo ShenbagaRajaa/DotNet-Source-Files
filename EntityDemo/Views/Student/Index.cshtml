@@ -1,0 +1,24 @@
+@model IEnumerable<StudentShenbaORM>;
+
+<h2>Student Details</h2>
+<p>
+    <a asp-action="Create" asp-controller="Student">Add Student</a>
+</p>
+<table class="table">
+    <tr>
+            <td>Student Id</td>
+            <td>Student Name </td>
+            <td>Department Id</td>
+            <td>Gender</td>
+            <td>EmailId</td>
+        </tr>
+    @foreach(StudentShenbaORM s in Model){
+        <tr>
+            <td>@s.StudentId</td>
+            <td>@s.StudentName </td>
+            <td>@s.DepartmentId</td>
+            <td>@s.Gender</td>
+            <td>@s.EmailId</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArithmaticApplication/1.0.0": {
+        "dependencies": {
+          "MathsComponent": "1.0.0"
+        },
+        "runtime": {
+          "ArithmaticApplication.dll": {}
+        }
+      },
+      "MathsComponent/1.0.0": {
+        "runtime": {
+          "MathsComponent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArithmaticApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathsComponent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

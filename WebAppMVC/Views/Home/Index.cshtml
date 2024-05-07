@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@* <div class="text-center">
+    <h1>hello @ViewData["uName"]</h1>    
+    <h2>@TempData["dept"]</h2>
+    <h3>hello @ViewBag.Email</h3>   
+</div> *@
+
+
+@* @model Student; *@
+@model List<Student>;
+
+<table>
+    @foreach(Student s in Model){
+        <tr>
+            <td>@s.StudentId</td>
+            <td>@s.StudentName</td>
+            <td>@s.DepartmentId</td>
+            <td>@s.Gender</td>
+            <td>@s.EmailId</td>
+        </tr>
+    }
+   
+</table>
+
+@* List<string> list=ViewData["Names"] as List<string>;
+    foreach(string l in list){
+        <li>@l</li>
+    } *@

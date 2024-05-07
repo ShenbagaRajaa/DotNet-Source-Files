@@ -1,0 +1,11 @@
+D:\.NetCoreee\project1\DemoLib\bin\Debug\net8.0\DemoLib.deps.json
+D:\.NetCoreee\project1\DemoLib\bin\Debug\net8.0\DemoLib.dll
+D:\.NetCoreee\project1\DemoLib\bin\Debug\net8.0\DemoLib.pdb
+D:\.NetCoreee\project1\DemoLib\obj\Debug\net8.0\DemoLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreee\project1\DemoLib\obj\Debug\net8.0\DemoLib.AssemblyInfoInputs.cache
+D:\.NetCoreee\project1\DemoLib\obj\Debug\net8.0\DemoLib.AssemblyInfo.cs
+D:\.NetCoreee\project1\DemoLib\obj\Debug\net8.0\DemoLib.csproj.CoreCompileInputs.cache
+D:\.NetCoreee\project1\DemoLib\obj\Debug\net8.0\DemoLib.dll
+D:\.NetCoreee\project1\DemoLib\obj\Debug\net8.0\refint\DemoLib.dll
+D:\.NetCoreee\project1\DemoLib\obj\Debug\net8.0\DemoLib.pdb
+D:\.NetCoreee\project1\DemoLib\obj\Debug\net8.0\ref\DemoLib.dll

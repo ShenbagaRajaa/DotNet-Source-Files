@@ -1,0 +1,11 @@
+D:\.NetCoreee\project1\Task1Interface\bin\Debug\net8.0\Task1Interface.deps.json
+D:\.NetCoreee\project1\Task1Interface\bin\Debug\net8.0\Task1Interface.dll
+D:\.NetCoreee\project1\Task1Interface\bin\Debug\net8.0\Task1Interface.pdb
+D:\.NetCoreee\project1\Task1Interface\obj\Debug\net8.0\Task1Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreee\project1\Task1Interface\obj\Debug\net8.0\Task1Interface.AssemblyInfoInputs.cache
+D:\.NetCoreee\project1\Task1Interface\obj\Debug\net8.0\Task1Interface.AssemblyInfo.cs
+D:\.NetCoreee\project1\Task1Interface\obj\Debug\net8.0\Task1Interface.csproj.CoreCompileInputs.cache
+D:\.NetCoreee\project1\Task1Interface\obj\Debug\net8.0\Task1Interface.dll
+D:\.NetCoreee\project1\Task1Interface\obj\Debug\net8.0\refint\Task1Interface.dll
+D:\.NetCoreee\project1\Task1Interface\obj\Debug\net8.0\Task1Interface.pdb
+D:\.NetCoreee\project1\Task1Interface\obj\Debug\net8.0\ref\Task1Interface.dll

@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "MathsComponent/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MathsInterface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MathsComponent.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MathsComponent.dll": {}
+        }
+      },
+      "MathsInterface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MathsInterface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MathsInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathsComponent/1.0.0": {
+      "type": "project",
+      "path": "../MathsComponent/MathsComponent.csproj",
+      "msbuildProject": "../MathsComponent/MathsComponent.csproj"
+    },
+    "MathsInterface/1.0.0": {
+      "type": "project",
+      "path": "../MathsInterface/MathsInterface.csproj",
+      "msbuildProject": "../MathsInterface/MathsInterface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "MathsComponent >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SHENBAGARAJ K\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\.NetCoreee\\project1\\MathsFactory\\MathsFactory.csproj",
+      "projectName": "MathsFactory",
+      "projectPath": "D:\\.NetCoreee\\project1\\MathsFactory\\MathsFactory.csproj",
+      "packagesPath": "C:\\Users\\SHENBAGARAJ K\\.nuget\\packages\\",
+      "outputPath": "D:\\.NetCoreee\\project1\\MathsFactory\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\SHENBAGARAJ K\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\.NetCoreee\\project1\\MathsComponent\\MathsComponent.csproj": {
+              "projectPath": "D:\\.NetCoreee\\project1\\MathsComponent\\MathsComponent.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
