@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div> *@
+
+
+@model List<Student>;
+
+<table class="table">
+    @foreach(Student s in Model){
+        <tr>
+            <td>@s.StudentId</td>
+            <td>@s.StudentName</td>
+            <td>@s.DepartmentId</td>
+            <td>@s.Gender</td>
+            <td>@s.EmailId</td>
+            <td><a href="/Home/Studentdetails/@s.StudentId" class="btn btn-primary">View</a></td>
+            <td class="btn btn-primary">@Html.ActionLink("View","Studentdetails","Home", new{id=s.StudentId})</td>
+            <td><a 
+            asp-controller="Home"
+            asp-action="Studentdetails"
+            asp-route-id="@s.StudentId" class="btn btn-primary">View</a></td>
+        </tr>
+    }
+   
+</table>

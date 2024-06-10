@@ -1,0 +1,23 @@
+@model BookDetailsShenba;
+
+
+<div class="row">
+    <div class="col-md-9">
+        <form asp-action="Create" >
+            <label asp-for="BookId">Book Id</label>
+            <input asp-for="BookId">
+            <label asp-for="BookName">Book Name</label>
+            <input asp-for="BookName">
+            @* <span asp-validation-for="StudentName"> </span> *@
+            <label asp-for="Author">Author</label>
+            <input asp-for="Author">
+            <label asp-for="Generation">Generation</label>
+            <input asp-for="Generation">
+            <label asp-for="Price">Price</label>
+            <input asp-for="Price">
+            <label asp-for="StockInHand">StockInHand</label>
+            <input asp-for="StockInHand">
+            <input type="submit">
+        </form>
+    </div>
+</div>

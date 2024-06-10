@@ -1,4 +1,0 @@
-rice 125
-paste 50
-oil 30
-flour 120

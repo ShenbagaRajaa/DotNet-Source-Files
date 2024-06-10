@@ -1,0 +1,12 @@
+@model Student;
+
+<div class="card" style="width: 18rem;">
+  <div class="card-header">
+    @Model.StudentName
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">@Model.StudentId</li>
+    <li class="list-group-item">@Model.DepartmentId</li>
+    <li class="list-group-item">@Model.Gender</li>
+  </ul>
+</div>
