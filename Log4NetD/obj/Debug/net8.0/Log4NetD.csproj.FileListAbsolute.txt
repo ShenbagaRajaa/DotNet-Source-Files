@@ -37,3 +37,4 @@ D:\.NetCoreee\project1\Log4NetD\obj\Debug\net8.0\refint\Log4NetD.dll
 D:\.NetCoreee\project1\Log4NetD\obj\Debug\net8.0\Log4NetD.pdb
 D:\.NetCoreee\project1\Log4NetD\obj\Debug\net8.0\Log4NetD.genruntimeconfig.cache
 D:\.NetCoreee\project1\Log4NetD\obj\Debug\net8.0\ref\Log4NetD.dll
+D:\.NetCoreee\project1\Log4NetD\obj\Debug\net8.0\Log4NetD.sourcelink.json

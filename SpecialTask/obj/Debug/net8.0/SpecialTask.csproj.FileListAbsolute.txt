@@ -12,3 +12,8 @@ D:\.NetCoreee\project1\SpecialTask\obj\Debug\net8.0\refint\SpecialTask.dll
 D:\.NetCoreee\project1\SpecialTask\obj\Debug\net8.0\SpecialTask.pdb
 D:\.NetCoreee\project1\SpecialTask\obj\Debug\net8.0\SpecialTask.genruntimeconfig.cache
 D:\.NetCoreee\project1\SpecialTask\obj\Debug\net8.0\ref\SpecialTask.dll
+D:\.NetCoreee\project1\SpecialTask\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.NetCoreee\project1\SpecialTask\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.NetCoreee\project1\SpecialTask\obj\Debug\net8.0\SpecialTask.csproj.AssemblyReference.cache
+D:\.NetCoreee\project1\SpecialTask\obj\Debug\net8.0\SpecialTask.sourcelink.json
+D:\.NetCoreee\project1\SpecialTask\obj\Debug\net8.0\SpecialT.4AA6493B.Up2Date

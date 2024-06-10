@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1rCGuKOtFBp1Fc2koexj7ErO2s2nrrVExyKJ1sbxZZ/I8PwuQq5eQR5S/GF71pYO7M5Pngifg4WTCoSCzPoHGg==",
+  "dgSpecHash": "r5Nlm8C/2gRtGt5PtW/T9izoQ0x8mmNe5HzfEkFsZVzUxvLYvnqEoswlkYZtgHzop+AEFG3HMHI9cxyqGaTG0A==",
   "success": true,
   "projectFilePath": "D:\\.NetCoreee\\project1\\SpecialTask\\SpecialTask.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\SHENBAGARAJ K\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.4\\microsoft.aspnetcore.cryptography.internal.8.0.4.nupkg.sha512",
+    "C:\\Users\\SHENBAGARAJ K\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.4\\microsoft.aspnetcore.cryptography.keyderivation.8.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
