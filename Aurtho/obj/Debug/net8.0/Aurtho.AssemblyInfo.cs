@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aurtho")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11082f0abeebd173fea4656bf24910e132c612e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6851fccc7150e39a5b36ac7123446510689783c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aurtho")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aurtho")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
